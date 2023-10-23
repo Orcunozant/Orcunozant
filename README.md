@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/3o6Zt8EV3YSrZIKyxa/giphy.gif?cid=6c09b952h5jbw4zzukqavnuzm2mus78gax332t9quv1ey6cb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Orçun Ozan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
