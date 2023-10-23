@@ -1,4 +1,4 @@
-[![MasterHead]([https://techrevolve.com/wp-content/uploads/2020/03/Game-Development.png](https://i.gifer.com/6M8R.gif))
+[![MasterHead](https://media3.giphy.com/media/3o6Zt8EV3YSrZIKyxa/giphy.gif?cid=6c09b952h5jbw4zzukqavnuzm2mus78gax332t9quv1ey6cb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Orçun Ozan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
