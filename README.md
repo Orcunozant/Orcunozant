@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/3o6Zt8EV3YSrZIKyxa/giphy.gif?cid=6c09b952h5jbw4zzukqavnuzm2mus78gax332t9quv1ey6cb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[![MasterHead]([https://media3.giphy.com/media/3o6Zt8EV3YSrZIKyxa/giphy.gif?cid=6c09b952h5jbw4zzukqavnuzm2mus78gax332t9quv1ey6cb&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/90372cfcb931d4c74cf84cb48991523bee8dd5fb83cad0a9f01cade9e0e326c0/68747470733a2f2f692e696d6775722e636f6d2f6b495631594b6d2e706e67))
 <h1 align="center">Hi 👋, I'm Orçun Ozan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
