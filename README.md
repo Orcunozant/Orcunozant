@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" />
+  <img src="banner1.png" />
 </p>
 
 <h1 align="center">Merhaba 👋 Ben Orçun Ozan Torçuk</h1>
