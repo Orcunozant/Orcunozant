@@ -1,18 +1,95 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Orçun Ozan</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h1 align="center">Merhaba 👋 Ben Orçun Ozan Torçuk</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">
+Full Stack Developer • Otomasyon Sistemleri • Dijital Dönüşüm
+</h3>
+
+<p align="center">
+Şirketler için ERP sistemleri, otomasyonlar, web yazılımları ve dijital dönüşüm çözümleri geliştiriyorum.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+# 🚀 Hakkımda
 
+- 🏢 Sıfırdan özel ERP sistemleri geliştiriyorum
+- 🤖 İşletmeler için otomasyon sistemleri kuruyorum
+- 🌐 Modern web siteleri ve web yazılımları geliştiriyorum
+- 🎮 Unity ile oyun geliştiriyorum
+- ☁️ Cloud, DevOps ve Self-Hosted sistemlerle ilgileniyorum
+- 📈 Markaların dijital dönüşüm süreçlerine yardımcı oluyorum
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orcunozant/Orcunozant/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orcunozant/Orcunozant/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Orcunozant/Orcunozant/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+# 🌍 Sosyal Medya
+
+<p align="left">
+<a href="https://instagram.com/orcunozant" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://linkedin.com/in/or%C3%A7un-ozan-tor%C3%A7uk-68583834b/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+# 💻 Teknolojiler
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,python,cs,cpp,java,laravel,mysql,mongodb,postgres,docker,aws,azure,gcp,cloudflare,unity,wordpress,figma" />
+</p>
+
+---
+
+# 📊 GitHub İstatistikleri
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=orcunozant&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcunozant&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Serisi
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=orcunozant&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Başarılar
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=orcunozant&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 🎯 Uzmanlık Alanlarım
+
+- ERP Sistemleri
+- İş Otomasyonları
+- CRM Sistemleri
+- Web Yazılımları
+- API Geliştirme
+- Dijital Dönüşüm
+- UI/UX Tasarım
+- Unity Oyun Geliştirme
+- Self-Hosted Sistemler
+- Sunucu & Cloud Yönetimi
+
+---
+
+# 📫 Bana Ulaşın
+
+- 📧 İletişim: orcunozant@gmail.com
+- 🌐 Website: Yakında...
+- 💼 LinkedIn: linkedin.com/in/orçun-ozan-torçuk
+
+---
+
+<p align="center">
+💫 Yazılım, otomasyon ve dijital dönüşüm ile markaları geleceğe taşıyorum.
+</p>
