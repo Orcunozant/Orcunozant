@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" />
+</p>
+
 <h1 align="center">Merhaba 👋 Ben Orçun Ozan Torçuk</h1>
 
 <h3 align="center">
@@ -38,15 +42,6 @@ Full Stack Developer • Otomasyon Sistemleri • Dijital Dönüşüm
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,python,cs,cpp,java,laravel,mysql,mongodb,postgres,docker,aws,azure,gcp,cloudflare,unity,wordpress,figma" />
-</p>
-
----
-
-# 📊 GitHub İstatistikleri
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=orcunozant&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcunozant&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
