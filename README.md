@@ -2,7 +2,7 @@
   <img src="banner1.png" />
 </p>
 
-<h1 align="center">Merhaba 👋 Ben Orçun Ozan Torçuk</h1>
+<h1 align="center">Merhaba 👋 Ben Orçun Ozan</h1>
 
 <h3 align="center">
 Full Stack Developer • Otomasyon Sistemleri • Dijital Dönüşüm
@@ -80,8 +80,7 @@ Full Stack Developer • Otomasyon Sistemleri • Dijital Dönüşüm
 # 📫 Bana Ulaşın
 
 - 📧 İletişim: orcunozant@gmail.com
-- 🌐 Website: Yakında...
-- 💼 LinkedIn: linkedin.com/in/orçun-ozan-torçuk
+- 🌐 Website: [Korkorco.com.tr](http://korkorco.com.tr/)
 
 ---
 
