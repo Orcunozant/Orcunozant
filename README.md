@@ -80,7 +80,7 @@ Full Stack Developer • Otomasyon Sistemleri • Dijital Dönüşüm
 # 📫 Bana Ulaşın
 
 - 📧 İletişim: orcunozant@gmail.com
-- 🌐 Website: [Korkorco.com.tr](http://kindofmedia.com/)
+- 🌐 Website: [kindofmedia.com](http://kindofmedia.com/)
 
 ---
 
